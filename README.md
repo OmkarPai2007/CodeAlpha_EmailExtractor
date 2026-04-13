@@ -49,7 +49,7 @@ This project is submitted as Task 3: Task Automation with Python Scripts for the
 
 ---
 
-🙌 Author
+# Author
 
 Omkar Pai
 GitHub: https://github.com/OmkarPai2007
